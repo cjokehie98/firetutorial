@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>660233580544-j2lvp7mo26r1ba70mumd7d9psqgi36oa.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.660233580544-j2lvp7mo26r1ba70mumd7d9psqgi36oa</string>
+	<key>API_KEY</key>
+	<string>AIzaSyD9uQHwc7ngCaeRBSvLG8ZGXf7qvyXbnwQ</string>
+	<key>GCM_SENDER_ID</key>
+	<string>660233580544</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>copractice.firetutorial</string>
+	<key>PROJECT_ID</key>
+	<string>firetutorial-29e11</string>
+	<key>STORAGE_BUCKET</key>
+	<string>firetutorial-29e11.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:660233580544:ios:ee291526e9c6671260a8e5</string>
+	<key>DATABASE_URL</key>
+	<string>https://firetutorial-29e11.firebaseio.com</string>
+</dict>
+</plist>
